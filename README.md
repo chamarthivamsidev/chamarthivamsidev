@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Languages and Tools:
-
-![image]({	https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white})
