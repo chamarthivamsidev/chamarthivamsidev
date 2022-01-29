@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey everyone, I'm Chamarthi Vamsi 👋
 
 <!--
 **chamarthivamsidev/chamarthivamsidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages and Tools:
+
+![image]({	https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white})
