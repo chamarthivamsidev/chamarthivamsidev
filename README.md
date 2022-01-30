@@ -53,6 +53,12 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=cobalt&hide_border=true" />
 
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend )](https://github.com/chamarthivamsidev/Bella_Vita_Organic_Clone_Backend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=MovieDB  )](https://github.com/chamarthivamsidev/MovieDB)
+
 ### Contact Me
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/chamarthivamsidev) [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chamarthi-vamsi-11l/)
