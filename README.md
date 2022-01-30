@@ -1,7 +1,7 @@
 
-<h1>Hey everyone 👋</h1>
+<h3>Hi There 👋</h3>
 
-<h1>I'm Chamarthi Vamsi , Full Stack Web Developer</>
+<h3>I'm Chamarthi Vamsi , Full Stack Web Developer<h3/>
 
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" />
 
@@ -47,11 +47,18 @@ Here are some ideas to get you started:
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chamarthivamsidev&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chamarthivamsidev&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />  -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true) 
+  
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chamarthivamsidev)  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=cobalt&hide_border=true" />
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)  
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=vue&hide_border=true" />
 
 ### Projects
 
