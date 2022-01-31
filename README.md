@@ -6,23 +6,6 @@ Web developer with a vast array of knowledge in many different front-end and bac
   
 <img src="/images/web_development.gif" />
  
-
-
-<!-- 
-**chamarthivamsidev/chamarthivamsidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
 ### Languages :
 
 <p>
@@ -47,8 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<!-- ### Projects :
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend &theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> -->
 
 ### Contributions
 
@@ -63,28 +44,6 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=vue&hide_border=true" />
-
-### Projects
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend)](https://github.com/chamarthivamsidev/Bella_Vita_Organic_Clone_Backend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=MovieDB)](https://github.com/chamarthivamsidev/MovieDB) -->
-
-<a href="https://github.com/chamarthivamsidev/MovieDB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=MovieDB" />
-</a>
-
-<a href="https://github.com/chamarthivamsidev/Bella_Vita_Organic_Clone_Backend" style="margin-right:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend" />
-</a>
-
-<a href="https://github.com/chamarthivamsidev/Weather_Info">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Weather_Info" />
-</a>
-
-<a href="https://github.com/chamarthivamsidev/kohls_clone" style="margin-right:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=kohls_clone" />
-</a>
 
 ### Contact Me
 
