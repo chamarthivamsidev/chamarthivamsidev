@@ -1,10 +1,14 @@
-<h3>Hi There 👋</h3>
+### Hi There 👋
 
-<h3>I'm Chamarthi Vamsi , Full Stack Web Developer<h3/>
-
+### I'm Chamarthi Vamsi
+  
+Web developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks and database. Looking forward to working in an   organization that helps in the overall growth, development, and utilization of technical skills.
+  
 <img src="/images/web_development.gif" />
+ 
 
-<!--
+
+<!-- 
 **chamarthivamsidev/chamarthivamsidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
 
 ### Languages :
 
@@ -25,7 +29,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
@@ -63,9 +66,25 @@ Here are some ideas to get you started:
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend)](https://github.com/chamarthivamsidev/Bella_Vita_Organic_Clone_Backend)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend)](https://github.com/chamarthivamsidev/Bella_Vita_Organic_Clone_Backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=MovieDB)](https://github.com/chamarthivamsidev/MovieDB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=MovieDB)](https://github.com/chamarthivamsidev/MovieDB) -->
+
+<a href="https://github.com/chamarthivamsidev/MovieDB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=MovieDB" />
+</a>
+
+<a href="https://github.com/chamarthivamsidev/Bella_Vita_Organic_Clone_Backend" style="margin-right:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Bella_Vita_Organic_Clone_Backend" />
+</a>
+
+<a href="https://github.com/chamarthivamsidev/Weather_Info">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=Weather_Info" />
+</a>
+
+<a href="https://github.com/chamarthivamsidev/kohls_clone" style="margin-right:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chamarthivamsidev&repo=kohls_clone" />
+</a>
 
 ### Contact Me
 
