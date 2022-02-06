@@ -1,8 +1,13 @@
-### Hi There 👋
-
-### I'm Chamarthi Vamsi
+<div style="color:red">
   
-Web developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks and database. Looking forward to working in an   organization that helps in the overall growth, development, and utilization of technical skills.
+  ### Hi 👋,
+
+  ### I'm Chamarthi Vamsi
+  
+  ### A Passionate Full Stack Web Developer
+ </div>
+  
+
   
 <img src="/images/web_development.gif" />
  
