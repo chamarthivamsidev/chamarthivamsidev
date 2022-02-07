@@ -25,16 +25,19 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### Contributions
+## Contributions
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chamarthivamsidev&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />  -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true)
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chamarthivamsidev)
+<!--  <p align="center">
+    <img alt="Aleem Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&count_private=true&theme=black&hide_border=true&bg_color=0D1117" />
+ </p> -->
+    
+<p align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true) 
+  
+ </p>
+ 
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chamarthivamsidev)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)
 
