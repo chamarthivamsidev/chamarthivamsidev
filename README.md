@@ -1,6 +1,9 @@
   
 <h1 align="center">Hi, I'm Chamarthi Vamsi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'> </h1>
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p>
 
 <img src="/images/web_development.gif" />
 
@@ -48,7 +51,10 @@ to enhance my technical skills and enables me to grow alongside the organization
  
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chamarthivamsidev)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)
+<!-- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&langs_count=8&theme=algolia" alt="harshith128's GitHub stats" />
+</div> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=vue&hide_border=true" />
 
