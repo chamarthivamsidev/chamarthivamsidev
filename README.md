@@ -58,6 +58,9 @@ to enhance my technical skills and enables me to grow alongside the organization
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=vue&hide_border=true" />
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)
+
+
 <h2> Connect with me :  </h2>
 
 <a href="https://twitter.com/engineer1147" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineer1147" height="30" width="40" /></a>
