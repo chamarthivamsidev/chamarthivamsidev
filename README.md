@@ -51,7 +51,7 @@ to enhance my technical skills and enables me to grow alongside the organization
 
 <p>
   
-  <a href="https://twitter.com/engineer1147" target="_blank"><img align="center" src="/icons/twitter.gif" alt="engineer1147" height="30" width="40" /></a>
+  <a href="https://twitter.com/engineer1147" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineer1147" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/chamarthi-vamsi-11l/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsi" height="30" width="40" /></a>
   <a href="https://www.instagram.com/u_me_we_lifelines/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u_me_we_lifelines" height="30" width="40" /></a>
   <a href="https://medium.com/@engineer873" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@engineer873" height="30" width="40" /></a>
